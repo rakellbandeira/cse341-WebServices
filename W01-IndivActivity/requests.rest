@@ -1,0 +1,11 @@
+### Test if the API is running
+GET http://localhost:8080/
+
+### Get professional data
+GET http://localhost:8080/professional
+
+### Create professional data
+POST http://localhost:8080/professional
+Content-Type: application/json
+
+< ./sample-data.json
