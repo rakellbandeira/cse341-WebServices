@@ -1,0 +1,20 @@
+{
+  "name": "cse341-webservices",
+  "version": "1.0.0",
+  "description": "W01-Contacts-Project",
+  "homepage": "https://github.com/rakellbandeira/cse341-WebServices#readme",
+  "bugs": {
+    "url": "https://github.com/rakellbandeira/cse341-WebServices/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakellbandeira/cse341-WebServices.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
