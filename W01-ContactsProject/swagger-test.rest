@@ -1,0 +1,5 @@
+@baseUrl = https://contactproject-m2ax.onrender.com/
+
+
+GET {{baseUrl}}/api-docs
+###
