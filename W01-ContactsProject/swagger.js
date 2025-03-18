@@ -33,11 +33,12 @@ const doc = {
     NewContactID: {
       id: '67d4a78d737ebb5ade87ec59'
     }
-  }
+  },
+  basePath: '/'
 };
 
 const outputFile = './swagger-output.json';
 
-const routes = ['./server.js', './routes/index.js', './routes/contact.js'];
+const routes = ['./routes/index.js', './routes/contact.js'];
 
 swaggerAutogen(outputFile, routes, doc);
