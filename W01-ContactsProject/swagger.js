@@ -6,7 +6,7 @@ const doc = {
     description: 'API for managing the contacts information',
     version: '1.0.0'
   },
-  host: 'contactproject-m2ax.onrender.com/',
+  host: 'contactproject-m2ax.onrender.com',
   schemes: ['https'],
   tags: [
     {
